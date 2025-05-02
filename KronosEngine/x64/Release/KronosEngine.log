@@ -1,0 +1,10 @@
+﻿  glad.c
+  Main.cpp
+  Generating code
+  31 of 44 functions (70.5%) were compiled, the rest were copied from previous compilation.
+    26 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  KronosEngine.vcxproj -> C:\Users\d7sha\Desktop\KronosEngine\KronosEngine\x64\Release\KronosEngine.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
